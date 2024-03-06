@@ -1,0 +1,350 @@
+Query 1 Nearest Neighbors:
+Neighbor 1, Index: 129, Distance: 4.608535775219025e-13, Filename: MVNCGT-0052-JLP177JP0RD000001_orig.graphml
+Neighbor 2, Index: 141, Distance: 0.012550432844551263, Filename: MVNCGT-0055-JLP177JBYAJ000002_orig.graphml
+Neighbor 3, Index: 165, Distance: 0.02409188190603917, Filename: MVNCGT-0062-JLP174EUW6A000002_orig.graphml
+Neighbor 4, Index: 78, Distance: 0.02409188190603917, Filename: MVNCGT-0034-JLP174D4A71000002_orig.graphml
+Neighbor 5, Index: 163, Distance: 0.02409188740666912, Filename: MVNCGT-0061-JLP174E3MMR000002_orig.graphml
+
+Query 2 Nearest Neighbors:
+Neighbor 1, Index: 269, Distance: 4.551914400963142e-14, Filename: MVNCGT-0091-JLP174KNTP2000002_orig.graphml
+Neighbor 2, Index: 65, Distance: 0.01734824339498786, Filename: MVNCGT-0030-JP17949YA800AB_orig.graphml
+Neighbor 3, Index: 5, Distance: 0.019600650404166253, Filename: MVNCGT-0002-JP1782A8RF00AA_orig.graphml
+Neighbor 4, Index: 313, Distance: 0.02302818340389734, Filename: MVNCGT-0104-JP1796EBP203AB_orig.graphml
+Neighbor 5, Index: 314, Distance: 0.02302818340389734, Filename: MVNCGT-0104-JP1796EBP204AB_orig.graphml
+
+Query 3 Nearest Neighbors:
+Neighbor 1, Index: 80, Distance: 0.0, Filename: MVNCGT-0034-JLP177D92FH000002_orig.graphml
+Neighbor 2, Index: 75, Distance: 1.7430501486614958e-13, Filename: MVNCGT-0033-JLP177DFBN3000002_orig.graphml
+Neighbor 3, Index: 270, Distance: 0.01831448973557337, Filename: MVNCGT-0091-JP178PY41W00AA_orig.graphml
+Neighbor 4, Index: 87, Distance: 0.019277738425796942, Filename: MVNCGT-0036-JLP177DSC97000002_orig.graphml
+Neighbor 5, Index: 84, Distance: 0.01927774372605473, Filename: MVNCGT-0035-JLP177DPUFG000002_orig.graphml
+
+Query 4 Nearest Neighbors:
+Neighbor 1, Index: 233, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0078-JP178P4F4J06AA_orig.graphml
+Neighbor 2, Index: 234, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0078-JP178P4F4J07AA_orig.graphml
+Neighbor 3, Index: 232, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0078-JP178P4F4J05AA_orig.graphml
+Neighbor 4, Index: 230, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0078-JP178P4F4J03AA_orig.graphml
+Neighbor 5, Index: 227, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0078-JP178P4F4J00AA_orig.graphml
+
+Query 5 Nearest Neighbors:
+Neighbor 1, Index: 61, Distance: 1.6986412276764895e-13, Filename: MVNCGT-0028-JP17948UA000AB_orig.graphml
+Neighbor 2, Index: 119, Distance: 0.017552240980812206, Filename: MVNCGT-0048-JP17944YGU00AB_orig.graphml
+Neighbor 3, Index: 91, Distance: 0.019971020065214007, Filename: MVNCGT-0037-JLP177DY9J0000002_orig.graphml
+Neighbor 4, Index: 172, Distance: 0.021428100746041956, Filename: MVNCGT-0064-JLP1766FBED000002_orig.graphml
+Neighbor 5, Index: 95, Distance: 0.022148981133062184, Filename: MVNCGT-0038-JP17949J3100AB_orig.graphml
+
+Query 6 Nearest Neighbors:
+Neighbor 1, Index: 433, Distance: 2.6201263381153694e-14, Filename: MVNCGT-0125-JP178R0NR400AB_orig.graphml
+Neighbor 2, Index: 436, Distance: 0.007392420518796516, Filename: MVNCGT-0126-JLP175X9F97000002_orig.graphml
+Neighbor 3, Index: 95, Distance: 0.007676971623055584, Filename: MVNCGT-0038-JP17949J3100AB_orig.graphml
+Neighbor 4, Index: 172, Distance: 0.011185829824016169, Filename: MVNCGT-0064-JLP1766FBED000002_orig.graphml
+Neighbor 5, Index: 411, Distance: 0.014121236819086613, Filename: MVNCGT-0119-JP178RFEZ000AB_orig.graphml
+
+Query 7 Nearest Neighbors:
+Neighbor 1, Index: 105, Distance: 2.9753977059954195e-14, Filename: MVNCGT-0042-JLP174EY0CH000001_orig.graphml
+Neighbor 2, Index: 303, Distance: 0.011548656414610448, Filename: MVNCGT-0102-JLP174L2U8W000001_orig.graphml
+Neighbor 3, Index: 217, Distance: 0.016962517049841308, Filename: MVNCGT-0073-JP1795HU3800AB_orig.graphml
+Neighbor 4, Index: 427, Distance: 0.018829294756701698, Filename: MVNCGT-0122-JLP174UX8E7000002_orig.graphml
+Neighbor 5, Index: 274, Distance: 0.018829294756701698, Filename: MVNCGT-0093-JLP174K0CBB000002_orig.graphml
+
+Query 8 Nearest Neighbors:
+Neighbor 1, Index: 73, Distance: 5.424549698318515e-13, Filename: MVNCGT-0033-JLP174DYW42000002_orig.graphml
+Neighbor 2, Index: 167, Distance: 0.009229384645622618, Filename: MVNCGT-0063-JLP174EEM83000002_orig.graphml
+Neighbor 3, Index: 152, Distance: 0.009229384645622618, Filename: MVNCGT-0058-JLP174EKPSJ000002_orig.graphml
+Neighbor 4, Index: 127, Distance: 0.009229384645622618, Filename: MVNCGT-0052-JLP174EZGJW000002_orig.graphml
+Neighbor 5, Index: 159, Distance: 0.009229390724481146, Filename: MVNCGT-0060-JLP174EUNYF000002_orig.graphml
+
+Query 9 Nearest Neighbors:
+Neighbor 1, Index: 406, Distance: 0.0, Filename: MVNCGT-0118-JP17975CC10NAA_orig.graphml
+Neighbor 2, Index: 405, Distance: 0.0, Filename: MVNCGT-0118-JP17975CC105AA_orig.graphml
+Neighbor 3, Index: 403, Distance: 0.0, Filename: MVNCGT-0118-JP17975CC103AA_orig.graphml
+Neighbor 4, Index: 404, Distance: 0.0, Filename: MVNCGT-0118-JP17975CC104AA_orig.graphml
+Neighbor 5, Index: 398, Distance: 0.0, Filename: MVNCGT-0118-JP17975CC10EAA_orig.graphml
+
+Query 10 Nearest Neighbors:
+Neighbor 1, Index: 175, Distance: 3.022027073029676e-13, Filename: MVNCGT-0064-JP178P22B000AB_orig.graphml
+Neighbor 2, Index: 66, Distance: 0.006601662198757019, Filename: MVNCGT-0031-JLP174DRHJH000002_orig.graphml
+Neighbor 3, Index: 374, Distance: 0.018390440218634674, Filename: MVNCGT-0116-JP178R093301AB_orig.graphml
+Neighbor 4, Index: 391, Distance: 0.018390440218634674, Filename: MVNCGT-0116-JP178R09330UAB_orig.graphml
+Neighbor 5, Index: 388, Distance: 0.018390441979731387, Filename: MVNCGT-0116-JP178R09330HAB_orig.graphml
+
+Query 11 Nearest Neighbors:
+Neighbor 1, Index: 240, Distance: 0.0, Filename: MVNCGT-0080-JLP1769JT36001002_orig.graphml
+Neighbor 2, Index: 239, Distance: 0.0, Filename: MVNCGT-0080-JLP1769JT36000002_orig.graphml
+Neighbor 3, Index: 84, Distance: 0.0058940948311794195, Filename: MVNCGT-0035-JLP177DPUFG000002_orig.graphml
+Neighbor 4, Index: 87, Distance: 0.00589409681213271, Filename: MVNCGT-0036-JLP177DSC97000002_orig.graphml
+Neighbor 5, Index: 206, Distance: 0.00608321398310685, Filename: MVNCGT-0070-JP1795UW2100AB_orig.graphml
+
+Query 12 Nearest Neighbors:
+Neighbor 1, Index: 393, Distance: 5.3512749786932545e-14, Filename: MVNCGT-0116-JP1797C53U00AB_orig.graphml
+Neighbor 2, Index: 54, Distance: 0.002756981613454168, Filename: MVNCGT-0026-JP1791RAM200AB_orig.graphml
+Neighbor 3, Index: 108, Distance: 0.003016080319755643, Filename: MVNCGT-0043-JLP174ECEU5000002_orig.graphml
+Neighbor 4, Index: 0, Distance: 0.0048374496373785325, Filename: MVNCGT-0001-JLP1751YAR7000002_orig.graphml
+Neighbor 5, Index: 85, Distance: 0.005994391045121228, Filename: MVNCGT-0035-JP1794R63G00AB_orig.graphml
+
+Query 13 Nearest Neighbors:
+Neighbor 1, Index: 359, Distance: 4.707345624410664e-14, Filename: MVNCGT-0111-JP1797EPZC00AA_orig.graphml
+Neighbor 2, Index: 77, Distance: 0.03462387387554278, Filename: MVNCGT-0033-JP1794HHUM00AB_orig.graphml
+Neighbor 3, Index: 112, Distance: 0.03462388092745439, Filename: MVNCGT-0044-JP1794GTPF00AB_orig.graphml
+Neighbor 4, Index: 121, Distance: 0.03462388113654136, Filename: MVNCGT-0049-JP1794SMRH00AB_orig.graphml
+Neighbor 5, Index: 136, Distance: 0.034623881933059986, Filename: MVNCGT-0054-JLP1766FGNH000002_orig.graphml
+
+Query 14 Nearest Neighbors:
+Neighbor 1, Index: 452, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT003001_orig.graphml
+Neighbor 2, Index: 451, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT002001_orig.graphml
+Neighbor 3, Index: 461, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00C001_orig.graphml
+Neighbor 4, Index: 456, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT007001_orig.graphml
+Neighbor 5, Index: 457, Distance: 2.220446049250313e-15, Filename: MVNCGT-0130-JLP176F59XT008001_orig.graphml
+
+Query 15 Nearest Neighbors:
+Neighbor 1, Index: 334, Distance: 0.0, Filename: MVNCGT-0109-JP178PDBFG01AA_orig.graphml
+Neighbor 2, Index: 333, Distance: 0.0, Filename: MVNCGT-0109-JP178PDBFG00AA_orig.graphml
+Neighbor 3, Index: 342, Distance: 0.0, Filename: MVNCGT-0109-JP178PDBFG09AA_orig.graphml
+Neighbor 4, Index: 340, Distance: 0.0, Filename: MVNCGT-0109-JP178PDBFG07AA_orig.graphml
+Neighbor 5, Index: 343, Distance: 0.0, Filename: MVNCGT-0109-JP178PDBFG0AAA_orig.graphml
+
+Query 16 Nearest Neighbors:
+Neighbor 1, Index: 310, Distance: 3.674838211509268e-13, Filename: MVNCGT-0104-JLP176CW5J5000005_orig.graphml
+Neighbor 2, Index: 236, Distance: 0.00479221942049346, Filename: MVNCGT-0079-JP178PP87H00AB_orig.graphml
+Neighbor 3, Index: 16, Distance: 0.0070195284150077475, Filename: MVNCGT-0007-JLP17746045000002_orig.graphml
+Neighbor 4, Index: 444, Distance: 0.00834354212712518, Filename: MVNCGT-0128-JP178RJS9000AB_orig.graphml
+Neighbor 5, Index: 9, Distance: 0.009145273785822194, Filename: MVNCGT-0003-JLP17737L4E000002_orig.graphml
+
+Query 17 Nearest Neighbors:
+Neighbor 1, Index: 191, Distance: 0.0, Filename: MVNCGT-0067-JLP1767RLKP000001_orig.graphml
+Neighbor 2, Index: 67, Distance: 0.005047170522783251, Filename: MVNCGT-0031-JLP17659HFF000001_orig.graphml
+Neighbor 3, Index: 430, Distance: 0.00768530098297604, Filename: MVNCGT-0124-JLP176E75ZS000002_orig.graphml
+Neighbor 4, Index: 293, Distance: 0.01202537926259617, Filename: MVNCGT-0098-JP178PPUX300AB_orig.graphml
+Neighbor 5, Index: 331, Distance: 0.012228965657872015, Filename: MVNCGT-0109-JLP175K6299000002_orig.graphml
+
+Query 18 Nearest Neighbors:
+Neighbor 1, Index: 445, Distance: 5.329070518200751e-13, Filename: MVNCGT-0128-JP179834CJ00AB_orig.graphml
+Neighbor 2, Index: 370, Distance: 0.00670476934243136, Filename: MVNCGT-0115-JLP176DE91C000002_orig.graphml
+Neighbor 3, Index: 49, Distance: 0.009283140937368595, Filename: MVNCGT-0025-JLP174D77BX000002_orig.graphml
+Neighbor 4, Index: 448, Distance: 0.009668984883064446, Filename: MVNCGT-0130-JLP175X4294000002_orig.graphml
+Neighbor 5, Index: 52, Distance: 0.01161724862942426, Filename: MVNCGT-0026-JLP174DM17B000002_orig.graphml
+
+Query 19 Nearest Neighbors:
+Neighbor 1, Index: 122, Distance: 4.951594689828198e-14, Filename: MVNCGT-0050-JLP1766XG9N000002_orig.graphml
+Neighbor 2, Index: 120, Distance: 0.0002139170536665791, Filename: MVNCGT-0049-JLP17660GNC000002_orig.graphml
+Neighbor 3, Index: 306, Distance: 0.012761059855954215, Filename: MVNCGT-0103-JLP174LHX78000002_orig.graphml
+Neighbor 4, Index: 182, Distance: 0.013560297350093564, Filename: MVNCGT-0065-JLP1767RC1H000002_orig.graphml
+Neighbor 5, Index: 3, Distance: 0.01479680935587746, Filename: MVNCGT-0002-JLP1752ETSZ000002_orig.graphml
+
+Query 20 Nearest Neighbors:
+Neighbor 1, Index: 391, Distance: 0.0, Filename: MVNCGT-0116-JP178R09330UAB_orig.graphml
+Neighbor 2, Index: 374, Distance: 0.0, Filename: MVNCGT-0116-JP178R093301AB_orig.graphml
+Neighbor 3, Index: 388, Distance: 3.752553823233029e-14, Filename: MVNCGT-0116-JP178R09330HAB_orig.graphml
+Neighbor 4, Index: 377, Distance: 3.752553823233029e-14, Filename: MVNCGT-0116-JP178R093304AB_orig.graphml
+Neighbor 5, Index: 380, Distance: 3.752553823233029e-14, Filename: MVNCGT-0116-JP178R093307AB_orig.graphml
+
+Query 21 Nearest Neighbors:
+Neighbor 1, Index: 476, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00U001_orig.graphml
+Neighbor 2, Index: 471, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00N001_orig.graphml
+Neighbor 3, Index: 458, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT009001_orig.graphml
+Neighbor 4, Index: 455, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT006001_orig.graphml
+Neighbor 5, Index: 468, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00K001_orig.graphml
+
+Query 22 Nearest Neighbors:
+Neighbor 1, Index: 469, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00L001_orig.graphml
+Neighbor 2, Index: 473, Distance: 1.6653345369377348e-15, Filename: MVNCGT-0130-JLP176F59XT00R001_orig.graphml
+Neighbor 3, Index: 468, Distance: 5.473399511402022e-14, Filename: MVNCGT-0130-JLP176F59XT00K001_orig.graphml
+Neighbor 4, Index: 458, Distance: 5.473399511402022e-14, Filename: MVNCGT-0130-JLP176F59XT009001_orig.graphml
+Neighbor 5, Index: 471, Distance: 5.473399511402022e-14, Filename: MVNCGT-0130-JLP176F59XT00N001_orig.graphml
+
+Query 23 Nearest Neighbors:
+Neighbor 1, Index: 99, Distance: 7.37188088351104e-14, Filename: MVNCGT-0040-JLP1766ALEY000001_orig.graphml
+Neighbor 2, Index: 294, Distance: 0.03008799710843668, Filename: MVNCGT-0098-JP1796G13J00AC_orig.graphml
+Neighbor 3, Index: 57, Distance: 0.030951778065492652, Filename: MVNCGT-0027-JLP177B4L5H000002_orig.graphml
+Neighbor 4, Index: 213, Distance: 0.031265560047020635, Filename: MVNCGT-0073-JLP174H8AX5001001_orig.graphml
+Neighbor 5, Index: 212, Distance: 0.03126556185794527, Filename: MVNCGT-0073-JLP174H8AX5000002_orig.graphml
+
+Query 24 Nearest Neighbors:
+Neighbor 1, Index: 391, Distance: 0.0, Filename: MVNCGT-0116-JP178R09330UAB_orig.graphml
+Neighbor 2, Index: 374, Distance: 0.0, Filename: MVNCGT-0116-JP178R093301AB_orig.graphml
+Neighbor 3, Index: 388, Distance: 3.752553823233029e-14, Filename: MVNCGT-0116-JP178R09330HAB_orig.graphml
+Neighbor 4, Index: 377, Distance: 3.752553823233029e-14, Filename: MVNCGT-0116-JP178R093304AB_orig.graphml
+Neighbor 5, Index: 380, Distance: 3.752553823233029e-14, Filename: MVNCGT-0116-JP178R093307AB_orig.graphml
+
+Query 25 Nearest Neighbors:
+Neighbor 1, Index: 219, Distance: 6.59472476627343e-14, Filename: MVNCGT-0074-JLP175F0A5B000002_orig.graphml
+Neighbor 2, Index: 181, Distance: 6.59472476627343e-14, Filename: MVNCGT-0065-JLP175CBZNJ000002_orig.graphml
+Neighbor 3, Index: 156, Distance: 9.281464485866309e-14, Filename: MVNCGT-0059-JLP175CGK77000002_orig.graphml
+Neighbor 4, Index: 144, Distance: 1.1546319456101628e-13, Filename: MVNCGT-0056-JLP175CBRAJ000001_orig.graphml
+Neighbor 5, Index: 187, Distance: 1.5520917884259688e-13, Filename: MVNCGT-0066-JLP175CJTY6000002_orig.graphml
+
+Query 26 Nearest Neighbors:
+Neighbor 1, Index: 62, Distance: 0.0, Filename: MVNCGT-0029-JLP174DHESG000002_orig.graphml
+Neighbor 2, Index: 432, Distance: 0.004744313657294885, Filename: MVNCGT-0125-JLP175XJDBX000001_orig.graphml
+Neighbor 3, Index: 76, Distance: 0.014957443641632318, Filename: MVNCGT-0033-JP178A1U9P00AB_orig.graphml
+Neighbor 4, Index: 361, Distance: 0.017242853883571385, Filename: MVNCGT-0112-JP178PT2K400AA_orig.graphml
+Neighbor 5, Index: 57, Distance: 0.022497196080741078, Filename: MVNCGT-0027-JLP177B4L5H000002_orig.graphml
+
+Query 27 Nearest Neighbors:
+Neighbor 1, Index: 169, Distance: 2.191580250610059e-13, Filename: MVNCGT-0063-JLP1766KTHS000002_orig.graphml
+Neighbor 2, Index: 368, Distance: 0.003984472162002595, Filename: MVNCGT-0114-JP17975EH300AB_orig.graphml
+Neighbor 3, Index: 438, Distance: 0.004227345687845441, Filename: MVNCGT-0126-JP1798A7GG00AB_orig.graphml
+Neighbor 4, Index: 108, Distance: 0.005224041635506715, Filename: MVNCGT-0043-JLP174ECEU5000002_orig.graphml
+Neighbor 5, Index: 85, Distance: 0.006973108143447426, Filename: MVNCGT-0035-JP1794R63G00AB_orig.graphml
+
+Query 28 Nearest Neighbors:
+Neighbor 1, Index: 472, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0130-JLP176F59XT00P001_orig.graphml
+Neighbor 2, Index: 460, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0130-JLP176F59XT00B001_orig.graphml
+Neighbor 3, Index: 459, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0130-JLP176F59XT00A001_orig.graphml
+Neighbor 4, Index: 475, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0130-JLP176F59XT00T001_orig.graphml
+Neighbor 5, Index: 450, Distance: 3.3306690738754696e-16, Filename: MVNCGT-0130-JLP176F59XT001001_orig.graphml
+
+Query 29 Nearest Neighbors:
+Neighbor 1, Index: 311, Distance: 1.376676550535194e-13, Filename: MVNCGT-0104-JP1796EBP200AB_orig.graphml
+Neighbor 2, Index: 314, Distance: 1.376676550535194e-13, Filename: MVNCGT-0104-JP1796EBP204AB_orig.graphml
+Neighbor 3, Index: 315, Distance: 1.376676550535194e-13, Filename: MVNCGT-0104-JP1796EBP205AB_orig.graphml
+Neighbor 4, Index: 312, Distance: 1.376676550535194e-13, Filename: MVNCGT-0104-JP1796EBP202AB_orig.graphml
+Neighbor 5, Index: 313, Distance: 1.376676550535194e-13, Filename: MVNCGT-0104-JP1796EBP203AB_orig.graphml
+
+Query 30 Nearest Neighbors:
+Neighbor 1, Index: 8, Distance: 7.460698725481052e-14, Filename: MVNCGT-0003-JLP1761N100000002_orig.graphml
+Neighbor 2, Index: 122, Distance: 0.023396467159579104, Filename: MVNCGT-0050-JLP1766XG9N000002_orig.graphml
+Neighbor 3, Index: 120, Distance: 0.023765379444806722, Filename: MVNCGT-0049-JLP17660GNC000002_orig.graphml
+Neighbor 4, Index: 371, Distance: 0.024309319988102374, Filename: MVNCGT-0115-JP1797GSZ500AB_orig.graphml
+Neighbor 5, Index: 273, Distance: 0.025425425429148718, Filename: MVNCGT-0092-JP178P8UW500AB_orig.graphml
+
+Query 31 Nearest Neighbors:
+Neighbor 1, Index: 358, Distance: 6.750155989720952e-14, Filename: MVNCGT-0111-JP178PUT0700AA_orig.graphml
+Neighbor 2, Index: 161, Distance: 0.01049405082977184, Filename: MVNCGT-0060-JP178NFUK900AB_orig.graphml
+Neighbor 3, Index: 213, Distance: 0.01388000536933598, Filename: MVNCGT-0073-JLP174H8AX5001001_orig.graphml
+Neighbor 4, Index: 212, Distance: 0.01388000592323635, Filename: MVNCGT-0073-JLP174H8AX5000002_orig.graphml
+Neighbor 5, Index: 182, Distance: 0.020760376832036798, Filename: MVNCGT-0065-JLP1767RC1H000002_orig.graphml
+
+Query 32 Nearest Neighbors:
+Neighbor 1, Index: 463, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00E001_orig.graphml
+Neighbor 2, Index: 457, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT008001_orig.graphml
+Neighbor 3, Index: 470, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00M001_orig.graphml
+Neighbor 4, Index: 451, Distance: 2.220446049250313e-15, Filename: MVNCGT-0130-JLP176F59XT002001_orig.graphml
+Neighbor 5, Index: 461, Distance: 2.220446049250313e-15, Filename: MVNCGT-0130-JLP176F59XT00C001_orig.graphml
+
+Query 33 Nearest Neighbors:
+Neighbor 1, Index: 182, Distance: 4.418687638008123e-14, Filename: MVNCGT-0065-JLP1767RC1H000002_orig.graphml
+Neighbor 2, Index: 7, Distance: 0.007866121626445732, Filename: MVNCGT-0003-JLP1759X4S9000002_orig.graphml
+Neighbor 3, Index: 3, Distance: 0.007866121626445732, Filename: MVNCGT-0002-JLP1752ETSZ000002_orig.graphml
+Neighbor 4, Index: 306, Distance: 0.007891627800399093, Filename: MVNCGT-0103-JLP174LHX78000002_orig.graphml
+Neighbor 5, Index: 122, Distance: 0.01356029201781861, Filename: MVNCGT-0050-JLP1766XG9N000002_orig.graphml
+
+Query 34 Nearest Neighbors:
+Neighbor 1, Index: 357, Distance: 0.0, Filename: MVNCGT-0111-JLP175PN90U003002_orig.graphml
+Neighbor 2, Index: 355, Distance: 1.4765966227514582e-13, Filename: MVNCGT-0111-JLP175PN90U001002_orig.graphml
+Neighbor 3, Index: 356, Distance: 1.4765966227514582e-13, Filename: MVNCGT-0111-JLP175PN90U002002_orig.graphml
+Neighbor 4, Index: 354, Distance: 1.4765966227514582e-13, Filename: MVNCGT-0111-JLP175PN90U000002_orig.graphml
+Neighbor 5, Index: 238, Distance: 0.0020656503097010726, Filename: MVNCGT-0080-JLP174H5LES000001_orig.graphml
+
+Query 35 Nearest Neighbors:
+Neighbor 1, Index: 308, Distance: 9.015010959956271e-14, Filename: MVNCGT-0103-JP17965CY900AB_orig.graphml
+Neighbor 2, Index: 358, Distance: 0.033168124308946, Filename: MVNCGT-0111-JP178PUT0700AA_orig.graphml
+Neighbor 3, Index: 276, Distance: 0.034679007009649654, Filename: MVNCGT-0093-JP178PX4ER00AA_orig.graphml
+Neighbor 4, Index: 146, Distance: 0.0346854217026451, Filename: MVNCGT-0056-JLP177JHBP1000002_orig.graphml
+Neighbor 5, Index: 367, Distance: 0.035866165139656125, Filename: MVNCGT-0114-JLP176D38S0000002_orig.graphml
+
+Query 36 Nearest Neighbors:
+Neighbor 1, Index: 251, Distance: 9.71445146547012e-14, Filename: MVNCGT-0083-JLP1769FFAB000002_orig.graphml
+Neighbor 2, Index: 247, Distance: 1.504352198367087e-13, Filename: MVNCGT-0082-JLP1769HAKY000002_orig.graphml
+Neighbor 3, Index: 154, Distance: 0.011778627932672148, Filename: MVNCGT-0058-JP1794J2PY00AB_orig.graphml
+Neighbor 4, Index: 448, Distance: 0.016904329005449914, Filename: MVNCGT-0130-JLP175X4294000002_orig.graphml
+Neighbor 5, Index: 94, Distance: 0.017350774572710503, Filename: MVNCGT-0038-JLP1766SDR1000002_orig.graphml
+
+Query 37 Nearest Neighbors:
+Neighbor 1, Index: 188, Distance: 1.0125233984581428e-13, Filename: MVNCGT-0066-JP178PAB2N00AB_orig.graphml
+Neighbor 2, Index: 304, Distance: 0.017505204856299583, Filename: MVNCGT-0102-JP178PBDRF00AB_orig.graphml
+Neighbor 3, Index: 84, Distance: 0.027968010924854236, Filename: MVNCGT-0035-JLP177DPUFG000002_orig.graphml
+Neighbor 4, Index: 87, Distance: 0.027968012163809397, Filename: MVNCGT-0036-JLP177DSC97000002_orig.graphml
+Neighbor 5, Index: 206, Distance: 0.02812119623055387, Filename: MVNCGT-0070-JP1795UW2100AB_orig.graphml
+
+Query 38 Nearest Neighbors:
+Neighbor 1, Index: 476, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00U001_orig.graphml
+Neighbor 2, Index: 471, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00N001_orig.graphml
+Neighbor 3, Index: 458, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT009001_orig.graphml
+Neighbor 4, Index: 455, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT006001_orig.graphml
+Neighbor 5, Index: 468, Distance: 0.0, Filename: MVNCGT-0130-JLP176F59XT00K001_orig.graphml
+
+Query 39 Nearest Neighbors:
+Neighbor 1, Index: 152, Distance: 1.5409895581797173e-13, Filename: MVNCGT-0058-JLP174EKPSJ000002_orig.graphml
+Neighbor 2, Index: 167, Distance: 1.5409895581797173e-13, Filename: MVNCGT-0063-JLP174EEM83000002_orig.graphml
+Neighbor 3, Index: 127, Distance: 1.5409895581797173e-13, Filename: MVNCGT-0052-JLP174EZGJW000002_orig.graphml
+Neighbor 4, Index: 159, Distance: 2.3225865675158275e-13, Filename: MVNCGT-0060-JLP174EUNYF000002_orig.graphml
+Neighbor 5, Index: 134, Distance: 3.356204203441848e-13, Filename: MVNCGT-0054-JLP174EH142000002_orig.graphml
+
+Query 40 Nearest Neighbors:
+Neighbor 1, Index: 30, Distance: 1.27675647831893e-13, Filename: MVNCGT-0012-JP1791P6T200AB_orig.graphml
+Neighbor 2, Index: 363, Distance: 0.001528504881048276, Filename: MVNCGT-0113-JLP176DLUF4000002_orig.graphml
+Neighbor 3, Index: 79, Distance: 0.005199053203396198, Filename: MVNCGT-0034-JLP1765RJ40000001_orig.graphml
+Neighbor 4, Index: 428, Distance: 0.011764501433181973, Filename: MVNCGT-0122-JP178RSED500AA_orig.graphml
+Neighbor 5, Index: 434, Distance: 0.013373885256671159, Filename: MVNCGT-0125-JP17985WBC00AA_orig.graphml
+
+Query 41 Nearest Neighbors:
+Neighbor 1, Index: 160, Distance: 4.96269692007445e-13, Filename: MVNCGT-0060-JLP177KZCK0000002_orig.graphml
+Neighbor 2, Index: 133, Distance: 2.0456823279779712e-07, Filename: MVNCGT-0053-JLP177JA47T000002_orig.graphml
+Neighbor 3, Index: 316, Distance: 0.015498481517476348, Filename: MVNCGT-0105-JLP174MDRJR000001_orig.graphml
+Neighbor 4, Index: 58, Distance: 0.018410304496371044, Filename: MVNCGT-0027-JP17914ATY00AB_orig.graphml
+Neighbor 5, Index: 284, Distance: 0.02213379527290238, Filename: MVNCGT-0095-JLP174L2UKW003001_orig.graphml
+
+Query 42 Nearest Neighbors:
+Neighbor 1, Index: 497, Distance: 0.0, Filename: MVNCGT-0131-JLP175XH8AE00T001_orig.graphml
+Neighbor 2, Index: 488, Distance: 0.0, Filename: MVNCGT-0131-JLP175XH8AE00H001_orig.graphml
+Neighbor 3, Index: 493, Distance: 0.0, Filename: MVNCGT-0131-JLP175XH8AE00N001_orig.graphml
+Neighbor 4, Index: 482, Distance: 2.6645352591003757e-14, Filename: MVNCGT-0131-JLP175XH8AE00B001_orig.graphml
+Neighbor 5, Index: 487, Distance: 2.6645352591003757e-14, Filename: MVNCGT-0131-JLP175XH8AE00G001_orig.graphml
+
+Query 43 Nearest Neighbors:
+Neighbor 1, Index: 279, Distance: 3.552713678800501e-13, Filename: MVNCGT-0094-JLP175GBDRU000001_orig.graphml
+Neighbor 2, Index: 430, Distance: 0.01553692901659609, Filename: MVNCGT-0124-JLP176E75ZS000002_orig.graphml
+Neighbor 3, Index: 93, Distance: 0.02112730402148244, Filename: MVNCGT-0038-JLP174EJK5K000002_orig.graphml
+Neighbor 4, Index: 191, Distance: 0.022308801585957827, Filename: MVNCGT-0067-JLP1767RLKP000001_orig.graphml
+Neighbor 5, Index: 265, Distance: 0.02488843328689072, Filename: MVNCGT-0089-JP1795NHZ000AB_orig.graphml
+
+Query 44 Nearest Neighbors:
+Neighbor 1, Index: 16, Distance: 1.0658141036401503e-13, Filename: MVNCGT-0007-JLP17746045000002_orig.graphml
+Neighbor 2, Index: 9, Distance: 0.0011617760185551607, Filename: MVNCGT-0003-JLP17737L4E000002_orig.graphml
+Neighbor 3, Index: 2, Distance: 0.0016610773252099253, Filename: MVNCGT-0001-JLP1773PCBP000002_orig.graphml
+Neighbor 4, Index: 263, Distance: 0.0036910141446948597, Filename: MVNCGT-0089-JLP174KZ86P000002_orig.graphml
+Neighbor 5, Index: 14, Distance: 0.004551595090590332, Filename: MVNCGT-0006-JLP1773DN44000002_orig.graphml
+
+Query 45 Nearest Neighbors:
+Neighbor 1, Index: 246, Distance: 4.3165471197426086e-13, Filename: MVNCGT-0082-JLP174J8GTE000002_orig.graphml
+Neighbor 2, Index: 33, Distance: 0.00892461894106722, Filename: MVNCGT-0015-JLP1776A12E000002_orig.graphml
+Neighbor 3, Index: 116, Distance: 0.018342161311200922, Filename: MVNCGT-0047-JLP177HLJ5T000002_orig.graphml
+Neighbor 4, Index: 150, Distance: 0.019852361230596416, Filename: MVNCGT-0057-JLP177JWPRL000002_orig.graphml
+Neighbor 5, Index: 27, Distance: 0.020205065438638536, Filename: MVNCGT-0009-JP1791PMK300AB_orig.graphml
+
+Query 46 Nearest Neighbors:
+Neighbor 1, Index: 152, Distance: 0.0, Filename: MVNCGT-0058-JLP174EKPSJ000002_orig.graphml
+Neighbor 2, Index: 167, Distance: 0.0, Filename: MVNCGT-0063-JLP174EEM83000002_orig.graphml
+Neighbor 3, Index: 127, Distance: 0.0, Filename: MVNCGT-0052-JLP174EZGJW000002_orig.graphml
+Neighbor 4, Index: 159, Distance: 9.781064846947629e-14, Filename: MVNCGT-0060-JLP174EUNYF000002_orig.graphml
+Neighbor 5, Index: 134, Distance: 2.381428387820961e-13, Filename: MVNCGT-0054-JLP174EH142000002_orig.graphml
+
+Query 47 Nearest Neighbors:
+Neighbor 1, Index: 27, Distance: 3.013145288832675e-13, Filename: MVNCGT-0009-JP1791PMK300AB_orig.graphml
+Neighbor 2, Index: 116, Distance: 0.008899013856695115, Filename: MVNCGT-0047-JLP177HLJ5T000002_orig.graphml
+Neighbor 3, Index: 52, Distance: 0.009025303737659751, Filename: MVNCGT-0026-JLP174DM17B000002_orig.graphml
+Neighbor 4, Index: 150, Distance: 0.009026010213909585, Filename: MVNCGT-0057-JLP177JWPRL000002_orig.graphml
+Neighbor 5, Index: 11, Distance: 0.010648521954418344, Filename: MVNCGT-0004-JP17838RTD00AA_orig.graphml
+
+Query 48 Nearest Neighbors:
+Neighbor 1, Index: 226, Distance: 4.163336342344337e-14, Filename: MVNCGT-0078-JLP174HJ7XY000002_orig.graphml
+Neighbor 2, Index: 4, Distance: 0.003936504555912768, Filename: MVNCGT-0002-JLP17612XH6000001_orig.graphml
+Neighbor 3, Index: 53, Distance: 0.00413592232050064, Filename: MVNCGT-0026-JLP177BAGG1000002_orig.graphml
+Neighbor 4, Index: 54, Distance: 0.004503988206884135, Filename: MVNCGT-0026-JP1791RAM200AB_orig.graphml
+Neighbor 5, Index: 156, Distance: 0.005136450182855246, Filename: MVNCGT-0059-JLP175CGK77000002_orig.graphml
+
+Query 49 Nearest Neighbors:
+Neighbor 1, Index: 253, Distance: 4.0323300254385686e-13, Filename: MVNCGT-0084-JLP1769FN8G000002_orig.graphml
+Neighbor 2, Index: 89, Distance: 0.003460633997811713, Filename: MVNCGT-0037-JLP174E6NAL000002_orig.graphml
+Neighbor 3, Index: 244, Distance: 0.018811985749024318, Filename: MVNCGT-0081-JP178PFJU000AB_orig.graphml
+Neighbor 4, Index: 445, Distance: 0.019019919140921604, Filename: MVNCGT-0128-JP179834CJ00AB_orig.graphml
+Neighbor 5, Index: 90, Distance: 0.021960115424901394, Filename: MVNCGT-0037-JLP1765RJC4000001_orig.graphml
+
+Query 50 Nearest Neighbors:
+Neighbor 1, Index: 274, Distance: 4.451994328746878e-14, Filename: MVNCGT-0093-JLP174K0CBB000002_orig.graphml
+Neighbor 2, Index: 427, Distance: 4.451994328746878e-14, Filename: MVNCGT-0122-JLP174UX8E7000002_orig.graphml
+Neighbor 3, Index: 238, Distance: 0.0055301659395439184, Filename: MVNCGT-0080-JLP174H5LES000001_orig.graphml
+Neighbor 4, Index: 357, Distance: 0.005702199593250246, Filename: MVNCGT-0111-JLP175PN90U003002_orig.graphml
+Neighbor 5, Index: 355, Distance: 0.005702200466663587, Filename: MVNCGT-0111-JLP175PN90U001002_orig.graphml
+
